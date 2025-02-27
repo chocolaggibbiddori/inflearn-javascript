@@ -45,7 +45,7 @@ console.log(ive);
  * Escaping Character
  * 1) new line - \n
  * 2) tab - \t
- * \ - \\
+ * 3) \ - \\
  */
 const iveYuJin = '아이브\n안유진';
 console.log(iveYuJin);
